@@ -11,4 +11,4 @@ print(type('''hello'''))#string
 print([1,2,3,5,6,7])#list uses [] => square braces
 print((1,2,3,4,5,6,7))#tuple uses () => parenthesis
 print({1,2,3,4,5,6,7,7,7})#sets uses {} => curly braces
-print({"name":"palak","age":19})#dict
+print({"name":"palak","age":19})#dictionary
