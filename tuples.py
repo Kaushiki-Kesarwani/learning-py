@@ -1,3 +1,3 @@
 tup = (1,2,3,4,5)
 print(tup)#tuples are immutable
-print(tup[0])#access through indexing
+print(tup[0])#access through indexing from 0
