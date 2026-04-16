@@ -22,3 +22,4 @@ student ={
 }
 
 print(student["colors"]["color2"])
+print(student.items())
