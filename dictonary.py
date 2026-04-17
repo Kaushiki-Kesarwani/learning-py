@@ -22,4 +22,10 @@ student ={
 }
 
 print(student["colors"]["color2"])
-print(student.items())
+# print(student.items())
+# print(student.get("name"))
+# print(student.keys())
+# print(student.values())
+student.update({"name":"palak"})
+print(student.values())
+
